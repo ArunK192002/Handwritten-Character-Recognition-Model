@@ -7,3 +7,5 @@ Train a machine learning model to classify any 10 letters from one of the Indian
 4. Train a classification model using neural networks and support vector machines on the training data
 5. Validate the model on the test data 
 6. Fine tune the parameters to increase the classification accuracies of the model on training and test data.
+
+Dataset - https://www.kaggle.com/datasets/arunslayer/tamil-handwritten-letters-character-recognition
